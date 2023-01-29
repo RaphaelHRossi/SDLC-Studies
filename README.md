@@ -35,20 +35,20 @@ Este projeto está sendo gerenciado usando a metodologia Scrum. A ideia é segui
 
 ## Processo de Testes
 
-Neste projeto, estamos seguindo uma abordagem de teste agressiva para garantir a qualidade do software. Estamos executando os seguintes tipos de testes:
+Neste projeto, estou executando os seguintes tipos de testes:
 
-* Testes unitários : para garantir que cada função individual do código esteja funcionando corretamente
-* Testes de integração : para verificar se as diferentes partes do código estão trabalhando juntas corretamente
-* Testes de sistema : para verificar se o software atende aos requisitos e expectativas do usuário final
+* Testes unitários : para garantir que cada função individual do código esteja funcionando corretamente.
+* Testes de integração : para verificar se as diferentes partes do código estão trabalhando juntas corretamente.
+* Testes de sistema : para verificar se o software atende aos requisitos e expectativas do usuário final.
 
-A seguir, você pode encontrar as estatísticas de testes para cada sprint:
+<!--A seguir, você pode encontrar as estatísticas de testes para cada sprint:
 
 Sprint 1:
 
 * Testes unitários: 0% de cobertura, 0% de taxa de sucesso
 * Testes de integração: 0% de cobertura, 0% de taxa de sucesso
 * Testes de sistema: 0% de cobertura, 0% de taxa de sucesso
-
+-->
 ## Conclusão
 
 Este projeto será atualizado regularmente à medida que avançamos no desenvolvimento. Fique ligado para acompanhar atualizações e não hesite em compartilhar, fazer sugestões ou perguntas!
